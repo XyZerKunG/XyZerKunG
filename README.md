@@ -26,9 +26,13 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][youtube]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][youtube]
 
+<br/>
+
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="center" alt="XyZerKunG's GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=XyZerKunG&show_icons=true&hide_border=true"/>
+  <br/>
+  <img align="center" alt="XyZerKunG's GitHub Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=XyZerKunG&layout=compact"/>
 </details>
 
 [website0]: https://xyzerkung.online
