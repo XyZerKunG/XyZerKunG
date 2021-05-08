@@ -1,6 +1,7 @@
-# XyZerKunG
+# Hi there, I'm XyZerKunG[website0] 👋
 
-<br/>
+[![Website](https://img.shields.io/website?label=XYZERKUNG.ONLINE&style=for-the-badge&url=https://xyzerkung.online)](https://xyzerkung.online)
+[![Website](https://img.shields.io/website?label=XYZERSTUDIO.ONLINE&style=for-the-badge&url=https://xyzerstudio.online)](https://xyzerstudio.online)
 
 ### Connect with me:
 
