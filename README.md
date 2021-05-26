@@ -37,11 +37,11 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="center" alt="XyZerKunG's GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=XyZerKunG&show_icons=true&hide_border=true"/>
+  <img align="center" alt="XyZerKunG's GitHub Stats" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=XyZerKunG&show_icons=true&include_all_commits=true&theme=material-palenight"/>
   
   <br/>
   
-  <img align="center" alt="XyZerKunG's GitHub Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=XyZerKunG&layout=compact"/>
+  <img align="center" alt="XyZerKunG's GitHub Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=XyZerKunG&layout=compact&theme=material-palenight"/>
 </details>
 
 [website0]: https://xyzerkung.online
