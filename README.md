@@ -1,7 +1,7 @@
 # Hi there, I'm [XyZerKunG][website0] 👋
 
-[![Website](https://img.shields.io/website?label=www.xyzerkung.com&style=for-the-badge&url=https://google.com)](https://xyzerkung.com)
-[![Website](https://img.shields.io/website?label=opensource.xyzerkung.com&style=for-the-badge&url=https://google.com)](https://xyzerkung.github.io)
+[![Website](https://img.shields.io/website?label=www.xyzerkung.com&style=for-the-badge&url=https://www.xyzerkung.com)](https://xyzerkung.com)
+[![Website](https://img.shields.io/website?label=opensource.xyzerkung.com&style=for-the-badge&url=https://www.xyzerkung.com)](https://xyzerkung.github.io)
 
 ### Connect with me:
 
